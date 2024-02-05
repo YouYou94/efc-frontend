@@ -3,5 +3,3 @@ const Router = () => {
 };
 
 export default Router;
-
-/* TEST */
