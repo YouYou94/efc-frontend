@@ -8,3 +8,4 @@ export { Logo } from "./common/logo";
 
 /* HOME */
 export { HomeTop } from "./home/top";
+export { HomeBottom } from "./home/bottom";
